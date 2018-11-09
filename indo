@@ -1,0 +1,53 @@
+ #EXTM3U
+#EXTINF:-1,MNC TV
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+#EXTINF:-1,MNC SHOP
+https://cdn-livetv1.metube.id/hls/mncshop79.m3u8
+#EXTINF:-1,MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+#EXTINF:-1,KOMPAS TV
+https://cdn-livetv2.metube.id/hls/kompastv.m3u8
+#EXTINF:-1,JAKTV
+https://cdn-livetv2.metube.id/hls/jaktv.m3u8
+#EXTINF:-1,TVONE #1
+https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
+#EXTINF:-1,RCTI #1
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
+#EXTINF:-1,RCTI #3
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1,SCTV #1
+https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1,SCTV #2
+https://cdn-livetv1.metube.id/hls/sctv.m3u8
+#EXTINF:-1,INDOSIAR #1
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:-1,INDOSIAR #2
+https://cdn-livetv1.metube.id/hls/indosiar.m3u8
+#EXTINF:-1,ANTV #1
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:-1,MNC TV #1
+https://cdn-livetv2.metube.id/hls/mnctv.m3u8
+#EXTINF:-1,MNC TV #2
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1,GTV #2
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:-1,TRANS TV #1
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:-1,iNews #2
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1,MNC Muslim
+http://cdn-livetv1.metube.id/hls/mncmuslim_240/index.m3u8
+#EXTINF:-1,HIDAYAH
+https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
+#EXTINF:-1,TVRI
+https://cdn-livetv1.metube.id/hls/tvri.m3u8
+#EXTINF:-1,LIFE
+https://cdn-livetv2.metube.id/hls/life.m3u8
+#EXTINF:-1,SCTV
+https://cdn-livetv2.metube.id/hls/sctv.m3u8
+#EXTINF:-1,JAKTV
+https://cdn-livetv1.metube.id/hls/jaktv.m3u8
+#EXTINF:-1,JTV
+https://cdn-livetv1.metube.id/hls/jtv.m3u8
+#EXTINF:-1,RTV
+https://cdn-livetv2.metube.id/hls/rtv.m3u8
